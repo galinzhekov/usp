@@ -3,7 +3,6 @@ public static void main(String args[]){
 
     System.out.println("Boklik");
     System.out.println("opa");
-    System.out.println("kkk");
-    public int kok;
+    System.out.println("kkk")
 }
 }
